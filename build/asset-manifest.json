@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RunCmd/NewLemon.git/static/css/main.f38965af.chunk.css",
+    "main.js": "/RunCmd/NewLemon.git/static/js/main.414c9900.chunk.js",
+    "main.js.map": "/RunCmd/NewLemon.git/static/js/main.414c9900.chunk.js.map",
+    "runtime-main.js": "/RunCmd/NewLemon.git/static/js/runtime-main.04c9ca28.js",
+    "runtime-main.js.map": "/RunCmd/NewLemon.git/static/js/runtime-main.04c9ca28.js.map",
+    "static/js/2.49ddcd58.chunk.js": "/RunCmd/NewLemon.git/static/js/2.49ddcd58.chunk.js",
+    "static/js/2.49ddcd58.chunk.js.map": "/RunCmd/NewLemon.git/static/js/2.49ddcd58.chunk.js.map",
+    "index.html": "/RunCmd/NewLemon.git/index.html",
+    "precache-manifest.11c6aed267b401ebb7ecffb492f3fb3f.js": "/RunCmd/NewLemon.git/precache-manifest.11c6aed267b401ebb7ecffb492f3fb3f.js",
+    "service-worker.js": "/RunCmd/NewLemon.git/service-worker.js",
+    "static/css/main.f38965af.chunk.css.map": "/RunCmd/NewLemon.git/static/css/main.f38965af.chunk.css.map",
+    "static/js/2.49ddcd58.chunk.js.LICENSE.txt": "/RunCmd/NewLemon.git/static/js/2.49ddcd58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04c9ca28.js",
+    "static/js/2.49ddcd58.chunk.js",
+    "static/css/main.f38965af.chunk.css",
+    "static/js/main.414c9900.chunk.js"
+  ]
+}
